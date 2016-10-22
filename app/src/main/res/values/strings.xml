@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Eysenck Boost</string>
+
+    <string name="first_test">Первый тест</string>
+    <string name="second_test">Второй тест</string>
+    <string name="third_test">Третий тест</string>
+    <string name="fourth_test">Четвертый тест</string>
+    <string name="fifth_test">Пятый тест</string>
+
+    <string name="question">Вопрос</string>
+    <string name="reply">Ответить</string>
+    <string name="answer">Ответ</string>
+    <string name="next">Дальше</string>
+    <string name="show_answer">Смотреть ответ</string>
+
+</resources>
